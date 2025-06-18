@@ -12,6 +12,7 @@ All logic is implemented inside the `philo/` directory.
 
 
 42\_Philosophers/ 
+
 │
 ├── philo/
 │   ├── Makefile
