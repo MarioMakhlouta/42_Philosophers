@@ -15,17 +15,28 @@ All logic is implemented inside the `philo/` directory.
 
 │
 ├── philo/
+
 │   ├── Makefile
+
 │   ├── philo.c
+
 │   ├── init.c
+
 │   ├── monitor.c
+
 │   ├── routine.c
+
 │   ├── threads.c
+
 │   ├── utils.c
+
 │   ├── single\_philo.c
+
 │   ├── utils.h
+
 │   └── philo.h
 │
+
 └── README.md
 
 
