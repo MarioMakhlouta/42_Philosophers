@@ -10,6 +10,7 @@ All logic is implemented inside the `philo/` directory.
 
 ## 🗂 Project Structure
 
+
 42\_Philosophers/
 │
 ├── philo/
@@ -26,9 +27,7 @@ All logic is implemented inside the `philo/` directory.
 │
 └── README.md
 
-````
 
----
 
 ## ⚙️ Installation
 
