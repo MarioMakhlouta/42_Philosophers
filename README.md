@@ -1,5 +1,3 @@
-
-```markdown
 # 🧠 42_Philosophers
 
 > A multithreaded simulation of the classic Dining Philosophers problem, implemented in C using POSIX threads.
@@ -11,8 +9,6 @@ This project is part of the 42 Beirut curriculum. It simulates a scenario in whi
 All logic is implemented inside the `philo/` directory.
 
 ## 🗂 Project Structure
-
-```
 
 42\_Philosophers/
 │
