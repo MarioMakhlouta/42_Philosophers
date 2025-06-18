@@ -11,7 +11,7 @@ All logic is implemented inside the `philo/` directory.
 ## 🗂 Project Structure
 
 
-42\_Philosophers/
+42\_Philosophers/ 
 │
 ├── philo/
 │   ├── Makefile
