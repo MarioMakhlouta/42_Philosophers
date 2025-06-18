@@ -10,9 +10,8 @@ All logic is implemented inside the `philo/` directory.
 
 ## 🗂 Project Structure
 
-
-42\_Philosophers/ 
-│
+```
+42_Philosophers/
 ├── philo/
 │   ├── Makefile
 │   ├── philo.c
@@ -21,12 +20,11 @@ All logic is implemented inside the `philo/` directory.
 │   ├── routine.c
 │   ├── threads.c
 │   ├── utils.c
-│   ├── single\_philo.c
+│   ├── single_philo.c
 │   ├── utils.h
 │   └── philo.h
-│
 └── README.md
-
+```
 
 
 ## ⚙️ Installation
