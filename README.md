@@ -12,31 +12,19 @@ All logic is implemented inside the `philo/` directory.
 
 
 42\_Philosophers/ 
-
 │
 ├── philo/
-
 │   ├── Makefile
-
 │   ├── philo.c
-
 │   ├── init.c
-
 │   ├── monitor.c
-
 │   ├── routine.c
-
 │   ├── threads.c
-
 │   ├── utils.c
-
 │   ├── single\_philo.c
-
 │   ├── utils.h
-
 │   └── philo.h
 │
-
 └── README.md
 
 
